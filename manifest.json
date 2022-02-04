@@ -1,0 +1,13 @@
+{
+  "name": "TengFei的技术日记",
+  "short_name": "Blog",
+  "start_url": "index.html",
+  "icons": [{
+      "src": "./icon/logo.png",
+      "sizes": "144x144",
+      "type": "image/png"
+  }],
+  "background_color": "white",
+  "theme_color": "white",
+  "display": "standalone"
+}
